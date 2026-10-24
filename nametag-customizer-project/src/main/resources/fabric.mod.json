@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "nametagcustomizer",
+  "version": "${version}",
+  "name": "Nametag Customizer",
+  "description": "Customize nametags: colors, outline, border, glow for chosen players, rainbow, Halloween style and a Halloween GUI theme.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.nametagcustomizer.NametagCustomizerClient"]
+  },
+  "mixins": [
+    { "config": "nametagcustomizer.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

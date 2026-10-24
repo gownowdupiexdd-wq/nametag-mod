@@ -1,0 +1,59 @@
+{
+  "key.nametagcustomizer.open": "Open Nametag Settings",
+  "category.nametagcustomizer": "Nametag Customizer",
+
+  "nametagcustomizer.screen.title": "Nametag Customizer",
+  "nametagcustomizer.picker.title": "Color",
+
+  "nametagcustomizer.gui.on": "ON",
+  "nametagcustomizer.gui.off": "OFF",
+  "nametagcustomizer.gui.done": "Done",
+  "nametagcustomizer.gui.reset": "Reset to vanilla look",
+  "nametagcustomizer.gui.preview": "Preview",
+  "nametagcustomizer.gui.halloween": "Halloween GUI",
+  "nametagcustomizer.gui.glow_hint": "Player nickname...",
+  "nametagcustomizer.gui.glow_add": "Add glowing player",
+
+  "nametagcustomizer.tab.text": "Text",
+  "nametagcustomizer.tab.background": "Background",
+  "nametagcustomizer.tab.position": "Position",
+  "nametagcustomizer.tab.effects": "Effects",
+  "nametagcustomizer.tab.glow": "Glow",
+
+  "nametagcustomizer.option.enabled": "Customization",
+  "nametagcustomizer.option.text_visible": "Show text",
+  "nametagcustomizer.option.text_scale": "Text size",
+  "nametagcustomizer.option.text_color": "Text color",
+  "nametagcustomizer.option.force_color": "Override team colors",
+  "nametagcustomizer.option.shadow": "Text shadow",
+  "nametagcustomizer.option.shadow_color": "Shadow color",
+  "nametagcustomizer.option.outline": "Text outline",
+  "nametagcustomizer.option.outline_color": "Outline color",
+  "nametagcustomizer.option.outline_thickness": "Outline width",
+
+  "nametagcustomizer.option.bg_visible": "Show background",
+  "nametagcustomizer.option.bg_color": "Background color",
+  "nametagcustomizer.option.bg_opacity": "Opacity",
+  "nametagcustomizer.option.pad_x": "Padding W",
+  "nametagcustomizer.option.pad_y": "Padding H",
+  "nametagcustomizer.option.border": "Background border",
+  "nametagcustomizer.option.border_color": "Border color",
+  "nametagcustomizer.option.border_thickness": "Border width",
+
+  "nametagcustomizer.option.offset_x": "Offset X",
+  "nametagcustomizer.option.offset_y": "Offset Y",
+  "nametagcustomizer.option.stretch_x": "Stretch W",
+  "nametagcustomizer.option.stretch_y": "Stretch H",
+  "nametagcustomizer.option.players_only": "Players only",
+  "nametagcustomizer.option.through_walls": "See through walls",
+  "nametagcustomizer.option.max_distance": "Max distance",
+
+  "nametagcustomizer.option.rainbow": "Rainbow text",
+  "nametagcustomizer.option.rainbow_speed": "Rainbow speed",
+  "nametagcustomizer.option.pulse": "Pulsing size",
+  "nametagcustomizer.option.halloween_text": "Halloween nick style",
+
+  "nametagcustomizer.option.glow": "Player glow",
+  "nametagcustomizer.option.glow_color": "Glow color",
+  "nametagcustomizer.option.glow_strength": "Glow strength"
+}

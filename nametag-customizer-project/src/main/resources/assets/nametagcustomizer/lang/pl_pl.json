@@ -1,0 +1,59 @@
+{
+  "key.nametagcustomizer.open": "Otwórz ustawienia nametagów",
+  "category.nametagcustomizer": "Nametag Customizer",
+
+  "nametagcustomizer.screen.title": "Nametag Customizer",
+  "nametagcustomizer.picker.title": "Kolor",
+
+  "nametagcustomizer.gui.on": "WŁ",
+  "nametagcustomizer.gui.off": "WYŁ",
+  "nametagcustomizer.gui.done": "Gotowe",
+  "nametagcustomizer.gui.reset": "Przywróć wygląd vanilla",
+  "nametagcustomizer.gui.preview": "Podgląd",
+  "nametagcustomizer.gui.halloween": "GUI Halloween",
+  "nametagcustomizer.gui.glow_hint": "Nick gracza...",
+  "nametagcustomizer.gui.glow_add": "Dodaj świecącego gracza",
+
+  "nametagcustomizer.tab.text": "Tekst",
+  "nametagcustomizer.tab.background": "Tło",
+  "nametagcustomizer.tab.position": "Pozycja",
+  "nametagcustomizer.tab.effects": "Efekty",
+  "nametagcustomizer.tab.glow": "Glow",
+
+  "nametagcustomizer.option.enabled": "Modyfikacja",
+  "nametagcustomizer.option.text_visible": "Pokaż tekst",
+  "nametagcustomizer.option.text_scale": "Rozmiar tekstu",
+  "nametagcustomizer.option.text_color": "Kolor tekstu",
+  "nametagcustomizer.option.force_color": "Ignoruj kolory drużyn",
+  "nametagcustomizer.option.shadow": "Cień tekstu",
+  "nametagcustomizer.option.shadow_color": "Kolor cienia",
+  "nametagcustomizer.option.outline": "Obrys tekstu",
+  "nametagcustomizer.option.outline_color": "Kolor obrysu",
+  "nametagcustomizer.option.outline_thickness": "Grubość obrysu",
+
+  "nametagcustomizer.option.bg_visible": "Pokaż tło",
+  "nametagcustomizer.option.bg_color": "Kolor tła",
+  "nametagcustomizer.option.bg_opacity": "Przezroczystość",
+  "nametagcustomizer.option.pad_x": "Margines szer.",
+  "nametagcustomizer.option.pad_y": "Margines wys.",
+  "nametagcustomizer.option.border": "Obramowanie tła",
+  "nametagcustomizer.option.border_color": "Kolor ramki",
+  "nametagcustomizer.option.border_thickness": "Grubość ramki",
+
+  "nametagcustomizer.option.offset_x": "Przesunięcie X",
+  "nametagcustomizer.option.offset_y": "Przesunięcie Y",
+  "nametagcustomizer.option.stretch_x": "Rozciągnij szer.",
+  "nametagcustomizer.option.stretch_y": "Rozciągnij wys.",
+  "nametagcustomizer.option.players_only": "Tylko gracze",
+  "nametagcustomizer.option.through_walls": "Widoczny przez ściany",
+  "nametagcustomizer.option.max_distance": "Maks. dystans",
+
+  "nametagcustomizer.option.rainbow": "Tęczowy tekst",
+  "nametagcustomizer.option.rainbow_speed": "Szybkość tęczy",
+  "nametagcustomizer.option.pulse": "Pulsujący rozmiar",
+  "nametagcustomizer.option.halloween_text": "Nick w stylu Halloween",
+
+  "nametagcustomizer.option.glow": "Glow graczy",
+  "nametagcustomizer.option.glow_color": "Kolor glow",
+  "nametagcustomizer.option.glow_strength": "Siła glow"
+}
